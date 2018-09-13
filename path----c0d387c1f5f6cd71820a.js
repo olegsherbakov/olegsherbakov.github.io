@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{104:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Testing a new front features."}}},layoutContext:{}}}});
+//# sourceMappingURL=path----c0d387c1f5f6cd71820a.js.map
